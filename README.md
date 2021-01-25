@@ -1,5 +1,7 @@
 # clinical\_klkb1\_analysis
 
+[![DOI](https://zenodo.org/badge/266758068.svg)](https://zenodo.org/badge/latestdoi/266758068)
+
 Code repository (meant to be viewed and not executed) for 'Plasma kallikrein predicts primary graft dysfunction after heart transplant' by Giangreco et al.
 
 The clinical characteristics table-one tables in the paper were created using *tableone.R* 
